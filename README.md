@@ -1,5 +1,5 @@
-Link to App :- social-app-adiaparmar.vercal.app
-Title: React JS Instagram Clone - Firebase Integrated
+#Link to App :- social-app-adiaparmar.vercal.app
+#Title: React JS Instagram Clone - Firebase Integrated
 
 Description:
 🚀 Excited to share my latest project - an Instagram Clone Website built entirely using React JS and Chakra UI, with Firebase handling the database management!
